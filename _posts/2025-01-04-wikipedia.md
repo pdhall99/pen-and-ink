@@ -44,6 +44,7 @@ A somewhat random list of people, in ascending order of birthdate
 * [Aubrey Beardsley (1872–1898)](https://en.wikipedia.org/wiki/Aubrey_Beardsley)
 * [Franklin Booth (1874–1948)](https://en.wikipedia.org/wiki/Franklin_Booth)
 * [James Montgomery Flagg (1877–1960)](https://en.wikipedia.org/wiki/James_Montgomery_Flagg)
+* [E. H. Shepard (1879–1976)](https://en.wikipedia.org/wiki/E._H._Shepard)
 * [Joseph Clement Coll (1881–1921)](https://en.wikipedia.org/wiki/Joseph_Clement_Coll)
 * [Tove Jansson (1914–2001)](https://en.wikipedia.org/wiki/Tove_Jansson)
 * [Ronald Searle 1920–2011](https://en.wikipedia.org/wiki/Ronald_Searle)
