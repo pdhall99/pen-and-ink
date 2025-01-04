@@ -12,7 +12,7 @@ layout: compress
 
     {% if site.tags[page.slug] %}
     <p>
-        Here be writings, tagged as <b>"{{ page.slug }}"</b>.<br>
+        Posts tagged as <b>"{{ page.slug }}"</b>.<br>
         <small><a href="{{ site.baseurl }}{{ site.Blog }}">Remove filter</a></small>
     </p>
 
@@ -29,7 +29,7 @@ layout: compress
             <span>
                 <i>
                     <time datetime="2022-01-28" pubdate="">
-                        {{ post.date | date: "%b %-d, %Y" }}
+                        {{ post.date | date: "%d %b %Y" }}
                     </time>
                 </i>
             </span>

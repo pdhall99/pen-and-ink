@@ -1,17 +1,12 @@
-###########
-# site.title
+title: Pen and ink resources
+description: >-
+  Resources for pen and ink drawing.
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://pdhall99.github.io/pen-and-ink"
 
-title: jekyllBear
-description: a minimal, text focused blog theme
-# baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
-url: "https://knhash.in/jekyllBear" # the base hostname & protocol for your site
-# host: 0.0.0.0
-
-
-#########################
-# more settings
-
+# Build settings
 plugins:
+  - jekyll-feed
   - jekyll-redirect-from
 
 whitelist:
@@ -28,10 +23,6 @@ compress_html:
   ignore:
     envs: []
 
-# sass:
-#   sass_dir: css
-#   style:    compressed
-
 collections:
   my_tags:
     output: true
@@ -46,22 +37,13 @@ defaults:
 
 # baseurl: ""
 permalink: /blog/:slug
-timezone: America/New_York
+timezone: Europe/London
 future: false
 
 exclude:
 - README.md
-- LICENSE.md
+- LICENSE
 
 exclude: [vendor]
 
 Blog: /blog
-
-# Add general links to site pages here
-links:
-  Resume: /assets/resume.pdf
-  
-
-# Add links for more focus here
-special_links:
-  "Search": https://duckduckgo.com
