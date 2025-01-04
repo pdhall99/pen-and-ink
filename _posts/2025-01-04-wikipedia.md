@@ -49,5 +49,5 @@ A somewhat random list of people, in ascending order of birthdate
 * [Edward Gorey (1925–2000)](https://en.wikipedia.org/wiki/Edward_Gorey)
 * [Frank Frazetta (1928–2010)](https://en.wikipedia.org/wiki/Frank_Frazetta)
 * [Quentin Blake (1932-)](https://en.wikipedia.org/wiki/Quentin_Blake)
-* [Gerald Scarefe (1936-)](https://en.wikipedia.org/wiki/Gerald_Scarfe)
+* [Gerald Scarfe (1936-)](https://en.wikipedia.org/wiki/Gerald_Scarfe)
 * [Bernie Wrightson (1948-2017)](https://en.wikipedia.org/wiki/Bernie_Wrightson)
