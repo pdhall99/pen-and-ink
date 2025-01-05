@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Wikipedia"
-date:   2025-01-04 19:00:00 +0000
+title: "Wikipedia"
+date: 2025-01-04 19:00:00
 tags: [wikipedia]
 ---
 
