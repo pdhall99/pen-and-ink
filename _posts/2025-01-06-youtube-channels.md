@@ -5,7 +5,6 @@ date: 2025-01-04 22:00:00
 tags: [resources, videos]
 ---
 
-### YouTube channels
 - [Alphonso Dunn @alphonsodunn](https://www.youtube.com/@alphonsodunn)
 - [Drawing Art of Storytelling in Pen and Ink @Drawing-in-Pen-and-Ink](https://www.youtube.com/@Drawing-in-Pen-and-Ink)
 - [Jake Parker @jakeparker44](https://www.youtube.com/@jakeparker44)
