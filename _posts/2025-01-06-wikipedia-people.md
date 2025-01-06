@@ -1,28 +1,11 @@
 ---
 layout: post
-title: "Wikipedia"
-date: 2025-01-04 19:00:00
+title: "Wikipedia – People"
+date: 2025-01-06 20:30:00
 tags: [resources, wikipedia]
 ---
 
-### General
-- [Ballpoint pen](https://en.wikipedia.org/wiki/Ballpoint_pen)  
-- [Dip pen](https://en.wikipedia.org/wiki/Dip_pen)  
-- [Fountain pen](https://en.wikipedia.org/wiki/Fountain_pen)  
-- [Fudepen](https://en.wikipedia.org/wiki/Fudepen)  
-- [Gel pen](https://en.wikipedia.org/wiki/Gel_pen)
-- [Ink](https://en.wikipedia.org/wiki/Ink)
-- [Marker pen](https://en.wikipedia.org/wiki/Marker_pen)  
-- [Nib (pen)](https://en.wikipedia.org/wiki/Nib_(pen))  
-- [Pen](https://en.wikipedia.org/wiki/Pen)  
-- [Quill](https://en.wikipedia.org/wiki/Quill)  
-- [Reed pen](https://en.wikipedia.org/wiki/Reed_pen)  
-- [Rollerball pen](https://en.wikipedia.org/wiki/Rollerball_pen)  
-- [Ruling pen](https://en.wikipedia.org/wiki/Ruling_pen)  
-- [Technical pen](https://en.wikipedia.org/wiki/Technical_pen)    
-
-### People
-A somewhat random list of people, in ascending order of birthdate
+A somewhat random list of people related to pen-and-ink drawing, in ascending order of birthdate
 - [Albrecht Dürer (1471–1528)](https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer)
 - [Rembrandt (1606–1669)](https://en.wikipedia.org/wiki/Rembrandt)
 - [Edward Lear (1812–1888)](https://en.wikipedia.org/wiki/Edward_Lear)
