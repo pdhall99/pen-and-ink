@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "YouTube channels"
-date: 2025-01-04 22:00:00
+date: 2025-01-06 22:00:00
 tags: [resources, videos]
 ---
 
