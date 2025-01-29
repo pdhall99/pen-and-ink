@@ -8,6 +8,7 @@ url: "https://pdhall99.github.io/pen-and-ink"
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 whitelist:
   - jekyll-redirect-from

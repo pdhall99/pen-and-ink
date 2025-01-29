@@ -13,6 +13,7 @@ tags: [resources, videos]
 - [Marc Kompaneyets Studio @mkompan](https://www.youtube.com/@mkompan)
 - [PeterHanStyle @PeterHanStyle](https://www.youtube.com/c/PeterHanStyle)
 - [Richard Friend @RichardFriendartist](https://www.youtube.com/@RichardFriendartist)
-- [Stephen Travers Art@stephentraversart](https://www.youtube.com/@stephentraversart)
+- [Stephen Travers Art @stephentraversart](https://www.youtube.com/@stephentraversart)
+- [Teoh Yi Chie @teohyc](https://www.youtube.com/@teohyc)
 - [Trie Le @trileartist](https://www.youtube.com/@trileartist)
 - [Watts Atelier of the Arts - Inking playlist @wattsatelier](https://www.youtube.com/watch?v=hk8GqSA5oAo&list=PLM_bjhD1WV0QA3fPjTUhzoi-EHlK_YR6L)
