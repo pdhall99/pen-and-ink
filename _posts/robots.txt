@@ -1,0 +1,4 @@
+Sitemap: https://pdhall99.github.io/pen-and-ink/sitemap.xml
+
+User-agent: *
+Disallow:
