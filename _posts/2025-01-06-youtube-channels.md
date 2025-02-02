@@ -11,6 +11,7 @@ tags: [resources, videos]
 - [Luke.Ink @LukeInk](https://www.youtube.com/@LukeInk)
 - [Chloe Gendron @longstrideillustration](https://www.youtube.com/@longstrideillustration)
 - [Marc Kompaneyets Studio @mkompan](https://www.youtube.com/@mkompan)
+- [Paul Heaston @paulheaston](https://www.youtube.com/channel/UCzFBska-v0rPmHNebZiUW2g)
 - [PeterHanStyle @PeterHanStyle](https://www.youtube.com/c/PeterHanStyle)
 - [Richard Friend @RichardFriendartist](https://www.youtube.com/@RichardFriendartist)
 - [Stephen Travers Art @stephentraversart](https://www.youtube.com/@stephentraversart)
