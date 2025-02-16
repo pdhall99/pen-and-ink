@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wikipedia – People"
-date: 2025-01-06 20:30:00
+date: 2025-02-15 20:00:00
 tags: [resources, wikipedia]
 ---
 
@@ -11,6 +11,7 @@ A somewhat random list of people related to pen-and-ink drawing, in ascending or
 - [Raphael (1483–1520)](https://en.wikipedia.org/wiki/Raphael)
 - [Rembrandt (1606–1669)](https://en.wikipedia.org/wiki/Rembrandt)
 - [Eugene Delacroix (1798–1863)](https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix)
+- [Honoré Daumier (1808–1879)](https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier)
 - [Edward Lear (1812–1888)](https://en.wikipedia.org/wiki/Edward_Lear)
 - [Hablot Knight Brown, "Phiz" (1815–1882)](https://en.wikipedia.org/wiki/Hablot_Knight_Browne)
 - [John Tenniel (1820–1914)](https://en.wikipedia.org/wiki/John_Tenniel)
