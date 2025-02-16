@@ -42,6 +42,8 @@ A somewhat random list of people related to pen-and-ink drawing, in ascending or
 - [James Montgomery Flagg (1877–1960)](https://en.wikipedia.org/wiki/James_Montgomery_Flagg)
 - [E. H. Shepard (1879–1976)](https://en.wikipedia.org/wiki/E._H._Shepard)
 - [Joseph Clement Coll (1881–1921)](https://en.wikipedia.org/wiki/Joseph_Clement_Coll)
+- [David Low (1891–1963)](https://en.wikipedia.org/wiki/David_Low_(cartoonist))
+- [Leslie Illingworth (1902–1979)](https://en.wikipedia.org/wiki/Leslie_Illingworth)
 - [Tove Jansson (1914–2001)](https://en.wikipedia.org/wiki/Tove_Jansson)
 - [Ronald Searle (1920–2011)](https://en.wikipedia.org/wiki/Ronald_Searle)
 - [Charles M. Schulz (1922–2000)](https://en.wikipedia.org/wiki/Charles_M._Schulz)
