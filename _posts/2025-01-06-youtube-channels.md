@@ -7,7 +7,9 @@ tags: [resources, videos]
 
 - [Alphonso Dunn @alphonsodunn](https://www.youtube.com/@alphonsodunn)
 - [Drawing Art of Storytelling in Pen and Ink @Drawing-in-Pen-and-Ink](https://www.youtube.com/@Drawing-in-Pen-and-Ink)
+- [Ellabel Art @EllabelArt](https://www.youtube.com/@EllabelArt)
 - [Jake Parker @jakeparker44](https://www.youtube.com/@jakeparker44)
+- [Jonathan Baldock Ink Drawings @JonBaldockInkDrawing](https://www.youtube.com/@JonBaldockInkDrawing)
 - [Luke.Ink @LukeInk](https://www.youtube.com/@LukeInk)
 - [Chloe Gendron @longstrideillustration](https://www.youtube.com/@longstrideillustration)
 - [Marc Kompaneyets Studio @mkompan](https://www.youtube.com/@mkompan)

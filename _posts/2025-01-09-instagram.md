@@ -14,6 +14,7 @@ tags: [resources]
 - Brian [@brejanz](https://www.instagram.com/brejanz)
 - Bulu [@bulutxin](https://www.instagram.com/bulutxin)
 - David Morales H. [@dava22](https://www.instagram.com/dava22)
+- Ellabel | Artist [@ellabel.art](https://www.instagram.com/ellabel.art)
 - George Philip Dean [@shoreditchsketcher](https://www.instagram.com/shoreditchsketcher)
 - Heather Souliere [@heathersouliere](https://www.instagram.com/heathersouliere)
 - Ioana Pioaru [@ioanapioaru](https://www.instagram.com/ioanapioaru)
