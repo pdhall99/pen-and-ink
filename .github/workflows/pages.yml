@@ -18,13 +18,6 @@ jobs:
         with:
           submodules: recursive
 
-      - name: Inspect theme requirements
-        run: |
-          echo '--- theme config ---'
-          cat themes/zola-bearblog/config.toml
-          echo '--- translation calls ---'
-          grep -Rho 'trans(key="[^"]*"' themes/zola-bearblog/templates | sort -u || true
-
       - name: Install Zola
         uses: taiki-e/install-action@v2
         with:
