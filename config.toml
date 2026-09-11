@@ -9,6 +9,7 @@ generate_sitemap = true
 generate_robots_txt = true
 compile_sass = false
 taxonomies = [
+  { name = "tags", feed = false },
   { name = "tagged", feed = false },
 ]
 
