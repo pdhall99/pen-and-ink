@@ -8,7 +8,6 @@ feed_filenames = ["atom.xml"]
 generate_sitemap = true
 generate_robots_txt = true
 compile_sass = false
-skip_content_templating = ["**/*.md"]
 taxonomies = [
   { name = "tagged", feed = false },
 ]

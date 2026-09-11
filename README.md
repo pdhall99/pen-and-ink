@@ -10,7 +10,7 @@ The site uses [Zola Bear Blog](https://codeberg.org/alinnow/zola-bearblog), pinn
 
 ## Local development
 
-Install Zola 0.23.4 or newer, then clone/update the theme submodule and run:
+Install Zola 0.21.0, then clone/update the theme submodule and run:
 
 ```sh
 git submodule update --init --recursive
