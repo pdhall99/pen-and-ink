@@ -1,9 +1,9 @@
----
-layout: post
-title: "Excerpt from The Elements of Drawing by John Ruskin"
-date: 2025-02-09 12:01:00
-tags: [books, resources]
----
++++
+title = "Excerpt from The Elements of Drawing by John Ruskin"
+date = 2025-02-09T12:01:00Z
+[taxonomies]
+tagged = ["books", "resources"]
++++
 
 An excerpt from _[The Elements of Drawing](https://archive.org/details/in.ernet.dli.2015.264111)_ by [John Ruskin](https://en.wikipedia.org/wiki/John_Ruskin), first published in 1857:
 

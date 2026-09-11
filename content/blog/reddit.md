@@ -1,9 +1,9 @@
----
-layout: post
-title: "Reddit"
-date: 2025-02-11 15:00:00
-tags: [resources]
----
++++
+title = "Reddit"
+date = 2025-02-11T15:00:00Z
+[taxonomies]
+tagged = ["resources"]
++++
 
 - [r/fountainpens](https://www.reddit.com/r/fountainpens/)
 - [r/ink](https://www.reddit.com/r/ink/)

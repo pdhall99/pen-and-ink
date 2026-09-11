@@ -1,9 +1,9 @@
----
-layout: post
-title: "Instagram"
-date: 2025-01-09 18:00:00
-tags: [resources]
----
++++
+title = "Instagram"
+date = 2025-01-09T18:00:00Z
+[taxonomies]
+tagged = ["resources"]
++++
 
 - Albert Kiefer [@housesketcher](https://www.instagram.com/housesketcher)
 - Alphonso Dunn [@alphonsodunnart](https://www.instagram.com/alphonsodunnart)

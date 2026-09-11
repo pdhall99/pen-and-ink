@@ -1,9 +1,9 @@
----
-layout: post
-title: "Wikipedia – General"
-date: 2025-02-11 20:30:00
-tags: [resources, wikipedia]
----
++++
+title = "Wikipedia – General"
+date = 2025-02-11T20:30:00Z
+[taxonomies]
+tagged = ["resources", "wikipedia"]
++++
 
 - [Ballpoint pen](https://en.wikipedia.org/wiki/Ballpoint_pen)
 - [Ballpoint pen artwork](https://en.wikipedia.org/wiki/Ballpoint_pen_artwork)

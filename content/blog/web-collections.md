@@ -1,9 +1,9 @@
----
-layout: post
-title: "Web collections"
-date: 2025-02-02 11:00:00
-tags: [resources]
----
++++
+title = "Web collections"
+date = 2025-02-02T11:00:00Z
+[taxonomies]
+tagged = ["resources"]
++++
 
 - [British Museum](https://www.britishmuseum.org/collection/search?keyword=ink&keyword=drawing&technique=drawn&image=true&view=grid&sort=object_name__asc&page=1)
 - [Google Arts & Culture - Pen](https://artsandculture.google.com/entity/m0k1tl)

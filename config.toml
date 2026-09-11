@@ -1,0 +1,39 @@
+base_url = "https://pdhall99.github.io/pen-and-ink"
+theme = "linkita"
+title = "Pen and ink resources 🖋️"
+description = "Resources for pen and ink drawing."
+default_language = "en"
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+generate_sitemap = true
+generate_robots_txt = true
+compile_sass = false
+build_search_index = false
+taxonomies = [
+  { name = "tagged", feed = false },
+]
+
+[extra]
+math = false
+mermaid = false
+comment = false
+toc = false
+title_separator = " | "
+header_menu_name = "main"
+menu_i18n = false
+header_buttons = ["site_title", "theme_button"]
+page_info = [{ when = "date" }]
+page_info_on_paginator = [{ when = "date" }]
+
+[extra.menus]
+main = [
+  { url = "@base/", name = "Home" },
+  { url = "@base/blog", name = "Blog" },
+  { url = "@base/tagged/", name = "Tags" },
+]
+
+[extra.taxonomy_sorting]
+tagged = "name"
+
+[extra.languages.en]
+date_format = "%d %b %Y"

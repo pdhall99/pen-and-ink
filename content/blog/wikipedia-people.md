@@ -1,9 +1,9 @@
----
-layout: post
-title: "Wikipedia – People"
-date: 2025-02-15 20:00:00
-tags: [resources, wikipedia]
----
++++
+title = "Wikipedia – People"
+date = 2025-02-15T20:00:00Z
+[taxonomies]
+tagged = ["resources", "wikipedia"]
++++
 
 A somewhat random list of people related to pen-and-ink drawing, in ascending order of birthdate
 - [Albrecht Dürer (1471–1528)](https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer)

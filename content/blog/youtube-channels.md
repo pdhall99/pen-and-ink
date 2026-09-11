@@ -1,9 +1,9 @@
----
-layout: post
-title: "YouTube channels"
-date: 2025-01-06 20:00:00
-tags: [resources, videos]
----
++++
+title = "YouTube channels"
+date = 2025-01-06T20:00:00Z
+[taxonomies]
+tagged = ["resources", "videos"]
++++
 
 - [Alphonso Dunn @alphonsodunn](https://www.youtube.com/@alphonsodunn)
 - [Drawing Art of Storytelling in Pen and Ink @Drawing-in-Pen-and-Ink](https://www.youtube.com/@Drawing-in-Pen-and-Ink)

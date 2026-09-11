@@ -1,9 +1,9 @@
----
-layout: post
-title: "Books"
-date: 2026-05-23 09:01:00
-tags: [books, resources]
----
++++
+title = "Books"
+date = 2026-05-23T09:01:00+01:00
+[taxonomies]
+tagged = ["books", "resources"]
++++
 
 A list of books on pen and ink drawing, in ascending order of first publication date.
 "[FREE]" links are to free full-text versions, mostly provided by the [Internet Archive](https://archive.org/details/internetarchivebooks).
@@ -98,4 +98,3 @@ Later published as _Pen & Ink Drawing_
 - [_The Artist's Guide to Pen and Ink_](https://openlibrary.org/books/OL57425544M), Tri Le Shiba, 2025
 - [_15-Minute Art Pen & Ink: Learn to Draw with Pen and Ink in Six Steps or Less_](https://openlibrary.org/books/OL60161212M), Anna Tromop, 2025
 - [_Pen drawing: An artist’s guide to drawing with ink_](https://openlibrary.org/works/OL45541911W), John Harrison, 2026
-
