@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block title %}{{ section.title }} | {{ config.title }}{% endblock title %}
+{% block description %}{{ section.description | default(value=config.description) }}{% endblock description %}
+{% block canonical %}<link rel="canonical" href="{{ config.base_url | safe }}/blog">{% endblock canonical %}
+
+{% block content %}
+  <section>
+    <h1>{{ section.title }}</h1>
+    <ol class="post-list">
+      {% for page in section.pages %}
+      <li>
+        <time datetime="{{ page.date }}">{{ page.date | date(format="%d %b %Y") }}</time>
+        <div>
+          <a class="post-link" href="{{ config.base_url | safe }}/blog/{{ page.slug }}">{{ page.title }}</a>
+          {% if page.taxonomies.tagged %}
+          <div class="tags" aria-label="Tags">
+            {% for tag in page.taxonomies.tagged %}
+              <a href="{{ get_taxonomy_url(kind='tagged', term=tag) | safe }}">#{{ tag }}</a>
+            {% endfor %}
+          </div>
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+{% endblock content %}

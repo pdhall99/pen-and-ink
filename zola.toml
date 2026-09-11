@@ -1,0 +1,13 @@
+base_url = "https://pdhall99.github.io/pen-and-ink"
+title = "Pen and ink resources 🖋️"
+description = "Resources for pen and ink drawing."
+default_language = "en"
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+generate_sitemap = true
+generate_robots_txt = true
+compile_sass = false
+skip_content_templating = ["**/*.md"]
+taxonomies = [
+  { name = "tagged", feed = false },
+]

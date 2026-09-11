@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}Tags | {{ config.title }}{% endblock title %}
+{% block canonical %}<link rel="canonical" href="{{ current_url | safe }}">{% endblock canonical %}
+
+{% block content %}
+  <section>
+    <h1>Tags</h1>
+    <ul class="tag-list">
+      {% for term in terms %}
+        <li><a href="{{ term.permalink | safe }}">#{{ term.name }}</a> <span class="muted">{{ term.page_count }}</span></li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endblock content %}

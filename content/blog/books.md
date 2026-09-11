@@ -1,0 +1,100 @@
++++
+title = "Books"
+date = 2026-05-23T09:01:00+01:00
+[taxonomies]
+tagged = ["books", "resources"]
++++
+
+A list of books on pen and ink drawing, in ascending order of first publication date.
+"[FREE]" links are to free full-text versions, mostly provided by the [Internet Archive](https://archive.org/details/internetarchivebooks).
+
+⭐ indicates a frequently recommended book (subjectively assessed).
+
+- [_The art of drawing with the pen, and limming in water colours_](https://archive.org/details/bim_early-english-books-1475-1640_the-art-of-drawing-with-_peacham-henry-the-youn_1607/mode/2up?view=theater), Henry Peacham the Younger, 1607 [[FREE]](https://archive.org/details/bim_early-english-books-1475-1640_the-art-of-drawing-with-_peacham-henry-the-youn_1607/mode/2up?view=theater)
+- [_The Graphic Arts: a Treatise on the Varieties of Drawing, Painting, and Engraving in Comparison With Each Other and With Nature_](https://archive.org/details/graphicarts00unkngoog/mode/2up?view=theater), Philip Gilbert Hamerton, 1882 [[FREE]](https://archive.org/details/graphicarts00unkngoog/mode/2up?view=theater)
+- [_Theory and Practice of Pen-Drawing_](https://archive.org/details/jstor-25627943/page/n1/mode/1up?view=theater), M. B. O. Fowler, Philip Gilbert Hamerton, 1882 [[FREE]](https://archive.org/details/jstor-25627943/page/n1/mode/1up?view=theater)
+- [_Some examples of pen drawing_](https://archive.org/details/jstor-25628402/mode/2up?view=theater), Joseph F. Clare, 1885 [[FREE]](https://archive.org/details/jstor-25628402/mode/2up?view=theater)
+- [_Pen Drawing and Pen Draughtsmen_](https://openlibrary.org/works/OL54434W), Joseph Pennell, 1889 [[FREE]](https://archive.org/details/cu31924030667582/mode/2up?view=theater)
+- [_English pen artists of to-day: examples of their work / with some criticisms and appreciations_](https://openlibrary.org/works/OL5158636W), Charles G. Harper, 1892 [[FREE]](https://babel.hathitrust.org/cgi/pt?id=mdp.39015033268080&seq=9)
+- [_Pen Pictures and How to Draw Them_](https://openlibrary.org/works/OL13149822W), Eric Meade, 1895 [[FREE]](https://archive.org/details/pen-pictures-and-how-to-draw-them/mode/2up?view=theater)
+- [_With Brush and Pen_](https://openlibrary.org/works/OL198409W), James Hall, 1897 [[FREE]](https://archive.org/details/withbrushpenmanu00halliala/mode/2up?view=theater)
+- [_Modern Pen Drawings – European and American_](https://openlibrary.org/works/OL5156384W), Charles Holme, 1901 [[FREE]](https://archive.org/details/modernpendrawing00holm/mode/2up?view=theater)
+- [_Pen and Ink Drawing: A Series of Drawings Showing Its Perfect Adaptability to the Modern Processes of Reproduction_](https://openlibrary.org/works/OL10999080W), George Hartnell Bartlett, 1903
+- [_The Art of Pen-and-Ink Drawing: Having Especial Reference to Book Illustration_](https://openlibrary.org/works/OL5928539W), Henry Robert Robertson, 1903
+- [_Rendering in Pen and Ink: Instruction Paper_](https://openlibrary.org/works/OL18081780W), David A. Gregg, 1906 [[FREE]](https://archive.org/details/cu31924014558203/mode/2up?view=theater)
+- [_The Pen Art Portfolio_](https://archive.org/details/Masgrimes_Archive_Pen_Art_Portfolio_1910/mode/2up?view=theater), Zaner-Bloser Co., 1910 [[FREE]](https://archive.org/details/Masgrimes_Archive_Pen_Art_Portfolio_1910/mode/2up?view=theater)
+- [_With Pen and Ink_](https://openlibrary.org/works/OL15934786W), James Hall, 1913 [[FREE]](https://archive.org/details/withpenink00hall/mode/2up?view=theater)
+- [_How To Draw In Pen And Ink_](https://openlibrary.org/works/OL4733073W), Harry Furniss, 1914
+- [_Architectural Rendering in Pen and Ink_](https://openlibrary.org/works/OL7738186W), Frank Allison Hays, 1915 [[FREE]](https://babel.hathitrust.org/cgi/pt?id=njp.32101067620359)
+- [_More about how to draw in pen and ink_](https://openlibrary.org/works/OL7741164W), Harry Furniss, 1915
+- [_Sketching Without a Master_](https://openlibrary.org/works/OL210600W), J. Hullah Brown, 1920 [[FREE]](https://archive.org/details/sketchingwithout00brow/mode/2up?view=theater)
+- [_Pen Drawing and Pen Draughtsmen_](https://openlibrary.org/works/OL54434W), Joseph Pennell, 1920 [[FREE]](https://archive.org/details/pendrawingpendra1920penn/mode/2up?view=theater)
+- [_Elements of Pen-and-Ink Rendering_](https://openlibrary.org/works/OL1490606W), International Textbook Company, 1921 [[FREE]](https://archive.org/details/elementsofpenand00scrauoft/mode/2up?view=theater)
+- [_Pen drawing: An Illustrated Treatise_](https://openlibrary.org/works/OL6021754W), Charles D. Maginnis, 1921 [[FREE]](https://archive.org/details/pendrawingillust1921magi/mode/2up?view=theater)
+- [_Drawings in pen & pencil from Dürer's day to ours, with notes and appreciations_](https://openlibrary.org/works/OL7153891W), George Sheringham, 1922 [[FREE]](https://archive.org/details/cu31924016029823/mode/2up?view=theater)
+- [_The Art and Technique of Pen Drawing_](https://openlibrary.org/works/OL19934596W), G. Montague Ellwood, 1927 [[FREE]](https://archive.org/details/in.ernet.dli.2015.76089/mode/2up?view=theater)
+- [_Practical Pen Drawing_](https://openlibrary.org/works/OL2749369W), Edwin George Lutz, 1928
+- ⭐ [_Drawing with Pen and Ink_](https://openlibrary.org/works/OL5207836W), Arthur L. Guptill, Susan E. Meyer, 1930 [[FREE]](https://archive.org/details/rendering-in-pen-and-ink-arthur-l.-guptil/mode/2up?view=theater)  
+Later published as _Rendering in Pen and Ink_
+- [_How To Draw in Pen and Ink_](https://openlibrary.org/works/OL9796897W), Jasper Salwey, 1931
+- [_Sketching in Pen & Ink_](https://openlibrary.org/works/OL6681732W), Donald Maxwell, 1932  
+Later published as _Landscape Sketching in Pen and Ink_
+- [_The ABC of Pen and Ink Rendering_](https://openlibrary.org/works/OL7625888W), John Austen, 1937
+- [_The art of the pen_](https://openlibrary.org/works/OL7429271W), Ernest Aris, 1948
+- [_Landscape Drawing in Pen and Ink_](https://openlibrary.org/works/OL6347123W), J. Geoffrey Garratt, 1950
+- [_Pen and Ink Drawing_](https://openlibrary.org/works/OL32443823W), Frank "Acanthus" Hoar, 1955
+- [_Pen and Ink Drawing: Art and Technique_](https://openlibrary.org/works/OL6328259W), Frederic Taubes, 1956 [[FREE]](https://babel.hathitrust.org/cgi/pt?id=coo.31924014503878&seq=1)
+- ⭐ [_Ink Drawing Techniques_](https://openlibrary.org/works/OL8557494W), Henry C. Pitz, 1957
+- [_Sketching is fun with pencil and pen_](https://openlibrary.org/works/OL22432375W), Alois Fabry, 1958 [[FREE]](https://archive.org/details/sketchingisfunwi0000aloi)
+- [_Sketching with the felt-tip pen_](https://openlibrary.org/works/OL3747669W), Henry C. Pitz, 1959
+- [_How to draw with pen & brush; a book for beginners_](https://openlibrary.org/works/OL5273819W), Arthur Zaidenberg, 1965 [[FREE]](https://archive.org/details/howtodrawwithpen0000zaid/mode/2up?view=theater)
+- [_Creative Ink Drawing_](https://openlibrary.org/works/OL11330038W), Paul Hogarth, 1968 [[FREE]](https://archive.org/details/creativeinkdrawi0000unse/mode/2up?view=theater)
+- [_Elementary Pen-and-Ink Drawing_](https://openlibrary.org/works/OL7223267W), Cecil G. Trew, 1969
+- [_Drawing with Ink: History and Modern Techniques_](https://openlibrary.org/works/OL6607569W), Norman Laliberté, Alex Mogelon, 1971 [[FREE]](https://archive.org/details/drawingwithinkhi0000lali_y5t0/mode/2up?view=theater)
+- [_The Pen & Ink and Cross Hatch Styles of the Early Illustrators_](https://openlibrary.org/works/OL18271267W), Dick Sutphen, 1976 [[FREE]](https://archive.org/details/peninkcrosshatch0000unse/mode/2up?view=theater)
+- [_Pen and Ink Techniques_](https://openlibrary.org/works/OL18615514W), Frank J. Lohan, 1978 [[FREE]](https://archive.org/details/peninktechniques00loha/mode/2up?view=theater)  
+Later published as _Pen & Ink Drawing_
+- [_Draw in brush and ink_](https://openlibrary.org/works/OL15835875W), Moira Huntly, 1981 [[FREE]](https://archive.org/details/drawinbrushink00hunt/mode/2up?view=theater)
+- [_Pen & Ink Themes_](https://openlibrary.org/works/OL21049707W), Frank J. Lohan, 1981 [[FREE]](https://archive.org/details/peninkthemes0000loha/mode/2up?view=theater)
+- [_Pen & Ink Sketching Step by Step_](https://openlibrary.org/works/OL15947606W), Frank J. Lohan, 1983
+- [_Drawing in Ink: Drawing for Reproduction_](https://openlibrary.org/works/OL4796991W), Harry Borgman, 1983 [[FREE]](https://archive.org/details/drawingininkdraw0000borg/mode/2up?view=theater)
+- [_Rendering with Pen and Ink (The Thames & Hudson Manuals)_](https://openlibrary.org/works/OL4488329W), Robert W. Gill, 1984
+- [_Drawing in Pen and Ink_](https://openlibrary.org/works/OL5107753W), Angus Scott, 1985 [[FREE]](https://archive.org/details/drawinginpenink0000scot/mode/2up?view=theater)
+- [_Drawing with Ink_](https://openlibrary.org/works/OL9427288W), John Brobbel, 1985
+- [_Drawing with Pen & Ink_](https://openlibrary.org/works/OL8694213W), Carl Glassford, 1985
+- [_How to draw in pen and ink_](https://openlibrary.org/works/OL3465877W), Susan E. Meyer, Martim Avillez, 1985 [[FREE]](https://archive.org/details/howtodrawinpenin00meye/mode/2up?view=theater)
+- [_Drawing and painting with ink_](https://openlibrary.org/works/OL5275264W), Fritz Henning, 1986
+- [_Pen & ink_](https://openlibrary.org/works/OL3952238W), Don Bolognese, Elaine Raphael, 1986 [[FREE]](https://archive.org/details/penink0000bolo/mode/2up?view=theater)
+- [_The Illustrator's Guide to Pen and Pencil Drawing Techniques_](https://openlibrary.org/works/OL4796992W), Harry Borgman, 1989 [[FREE]](https://archive.org/details/illustratorsguid00borg/mode/2up?view=theater)
+- [_The Technical Pen_](https://openlibrary.org/works/OL4287194W), Gary Simmons, 1992 [[FREE]](https://archive.org/details/technicalpen0000simm/mode/2up?view=theater)
+- [_The Pen and Ink Book: Materials and Techniques for Today's Artist_](https://openlibrary.org/works/OL9543391W), Joseph A. Smith, 1992
+- [_Pen and Ink Techniques_](https://openlibrary.org/works/OL4032248W), Paulette Fedarb, 1992 [[FREE]](https://archive.org/details/peninktechniques0000feda/mode/2up?view=theater)
+- ⭐ [_Dynamic Black and White Illustrations_](https://openlibrary.org/works/OL1936219W), Leslie Cabarga, 1993 [[FREE]](https://archive.org/details/dynamicblackblan0000caba/mode/2up?view=theater)
+- [_Sketching Your Favorite Subjects in Pen & Ink_](https://openlibrary.org/works/OL1851742W), Claudia Nice, 1993
+- [_Pen and Ink Sketching_](https://openlibrary.org/works/OL3550743W), Peter Cauldwell, 1995
+- [_Drawing in Pen and Ink (First Steps)_](https://openlibrary.org/works/OL1851729W), Claudia Nice, 1997
+- [_The DC Comics Guide to Inking Comics_](https://openlibrary.org/works/OL5290454W), Klaus Janson, 2003
+- [_The Art of Comic Book Inking_](https://openlibrary.org/works/OL3864266W), Gary Martin, 2005
+- [_Drawing with Pen and Ink (Art Classes)_](https://openlibrary.org/works/OL39113177W), David Porteous-Butler, Steven Annis, 2006
+- [_The Urban Sketcher: Techniques for Seeing and Drawing on Location_](https://openlibrary.org/works/OL19990007W), Marc Taro Holmes, 2014
+- [_Treasury of American Pen & Ink Illustration 1881-1938_](https://openlibrary.org/works/OL8250024W), Fridolf Johnson, 2014
+- ⭐ [_Pen and Ink Drawing: A Simple Guide_](https://openlibrary.org/works/OL17718523W), Alphonso Dunn, 2014
+- [_Artistry: Pen & Ink: A creative exploration of a time-treasured drawing technique_](https://openlibrary.org/works/OL20046714W), Desarae Lee, 2016
+- [_The art of ballpoint: Experimentation, exploration, and techniques in ink_](https://openlibrary.org/works/OL20021047W), Matt Rota, 2016 [[FREE]](https://archive.org/details/artofballpointex0000rota/mode/2up?view=theater)
+- [_Pen and ink: Contemporary artists, timeless techniques_](https://openlibrary.org/works/OL20055250W), James Hobbs, 2016
+- [_Pen and Ink Drawing Workbook_](https://openlibrary.org/works/OL24369617W), Alphonso Dunn, 2018
+- [_Pen and Ink Drawing Workbooks: Volumes 1-7_](https://openlibrary.org/works/OL34847768W), Rahul Jain, 2018
+- [_You Will Be Able to Draw by the End of this Book: Ink_](https://openlibrary.org/works/OL21212548W), Jake Spicer, 2019
+- [_Pen & Ink Illustration Showcase_](https://openlibrary.org/works/OL42332153W), Steve Archibald, 2019
+- [_Natural History Illustration in Pen and Ink: Combine science with art, and journey through nature_](https://openlibrary.org/works/OL25335431W), Sarah Morrish, 2021
+- [_Crosshatching in Pen & Ink: The Complete Practical Guide_](https://openlibrary.org/works/OL27851303W), August Lamm, 2022
+- [_Exploring Black and White Drawing and Painting Techniques_](https://openlibrary.org/works/OL20510018W), Victor Escandell, 2022
+- [_How to Ink Comics: The Traditional Way_](https://openlibrary.org/works/OL40202928W), Stan Bendis Kutcher, 2023
+- [_How To Ink Comics!: A Complete Guide to Essential Comic Inking Techniques_](https://openlibrary.org/works/OL42332158W), Mark Robinson, 2023
+- [_Pen and Ink Drawing Techniques: Steps, Subjects & Prompts_](https://openlibrary.org/works/OL37871005W), David Morales H., 2024
+- [_The Pen and Ink Drawing Guide: How To Create Intricate Fineline Artworks_](https://openlibrary.org/works/OL42332163W), Giovana Ghizzi Vescovi, 2024
+- [_"Engraving" Style Drawings: Volumes 1 and 2_](https://www.trileart.com/products/engraving-style-drawing-vol-1-5JdQ4ZWH6i9K9fnAnsoubY), Tri Le Shiba, 2024
+- [_Crosshatching: Pocket Guide_](https://openlibrary.org/works/OL42403767W), Giovana Ghizzi Vescovi, 2025
+- [_The Artist's Guide to Pen and Ink_](https://openlibrary.org/books/OL57425544M), Tri Le Shiba, 2025
+- [_15-Minute Art Pen & Ink: Learn to Draw with Pen and Ink in Six Steps or Less_](https://openlibrary.org/books/OL60161212M), Anna Tromop, 2025
+- [_Pen drawing: An artist’s guide to drawing with ink_](https://openlibrary.org/works/OL45541911W), John Harrison, 2026

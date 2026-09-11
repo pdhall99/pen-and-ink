@@ -1,0 +1,57 @@
++++
+title = "Excerpt from The Elements of Drawing by John Ruskin"
+date = 2025-02-09T12:01:00Z
+[taxonomies]
+tagged = ["books", "resources"]
++++
+
+An excerpt from _[The Elements of Drawing](https://archive.org/details/in.ernet.dli.2015.264111)_ by [John Ruskin](https://en.wikipedia.org/wiki/John_Ruskin), first published in 1857:
+
+> When either the material (as the copper or wood) or the
+time of an artist does not permit him to make a perfect
+drawing,—that is to say, one in which no lines shall be
+prominently visible,—and he is reduced to show the black lines,
+either drawn by the pen, or on the wood, it is better to make these
+lines help, as far as may be, the expression of texture and form.
+You will thus find many textures, as of cloth or grass or flesh, and
+many subtle effects of light, expressed by Leech with zigzag or
+crossed or curiously broken lines; and you will see that Alfred
+Rethel and Richter constantly express the direction and rounding
+of surfaces by the direction of the lines which shade them. All
+these various means of expression will be useful to you, as far as
+you can learn them, provided you remember that they are merely a
+kind of shorthand; telling certain facts not in quite the right way,
+but in the only possible way under the conditions: and provided in
+any after use of such means, you never try to show your own
+dexterity; but only to get as much record of the object as you can in
+a given time; and that you continually make efforts to go beyond
+such shorthand, and draw portions of the objects rightly.
+
+> And touching this question of direction of lines as
+indicating that of surface, observe these few points:
+
+> If lines are to be distinctly shown, it is better that, so far as they
+can indicate anything by their direction, they should explain rather
+than oppose the general character of the object ... And Albert Dürer, whose
+work was chiefly engraving, sets himself always thus to make his lines
+as valuable as possible; telling much by them, both of shade and
+direction of surface: and if you were always to be limited to
+engraving on copper (and did not want to express effects of mist or
+darkness, as well as delicate forms), Albert Dürer‘s way of work
+would be the best example for you. But, inasmuch as the perfect
+way of drawing is by shade without lines, and the great painters
+always conceive their subject as complete, even when they are
+sketching it most rapidly, you will find that, when they are not
+limited in means, they do not much trust to direction of line, but will often scratch in the shade of a rounded surface with nearly straight lines, that is to say, with the easiest and
+quickest lines possible to themselves. When the hand is free, the
+easiest line for it to draw is one inclining from the left upwards to
+the right, or vice versâ, from the right downwards to the left; and
+when done very quickly, the line is hooked a little at the end by the
+effort at return to the next. Hence, you will always find the pencil,
+chalk, or pen sketch of a very great master full of these kind of
+lines; and even if he draws carefully, you will find him using
+simple straight lines from left to right, when an inferior master
+would have used curved ones ... Even the careful drawings of Leonardo da Vinci are shaded most commonly with straight lines; and you may always assume it as a point increasing the probability
+of a drawing being by a great master if you find rounded surfaces,
+such as those of cheeks or lips,
+shaded with straight lines.

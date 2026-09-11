@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+  <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}">
+  {% block canonical %}{% endblock canonical %}
+  <link rel="alternate" type="application/atom+xml" title="{{ config.title }}" href="{{ config.base_url | safe }}/feed.xml">
+  <link rel="icon" href="{{ config.base_url | safe }}/assets/favicon.ico">
+  <link rel="stylesheet" href="{{ get_url(path='assets/style.css') | safe }}">
+  <script>
+    (() => {
+      try {
+        const theme = localStorage.getItem('theme');
+        if (theme === 'light' || theme === 'dark') {
+          document.documentElement.dataset.theme = theme;
+        }
+      } catch (_) {}
+    })();
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+  <header class="site-header">
+    <a class="site-title" href="{{ config.base_url | safe }}/">{{ config.title }}</a>
+    <nav aria-label="Primary">
+      <a href="{{ config.base_url | safe }}/">Home</a>
+      <a href="{{ config.base_url | safe }}/blog">Blog</a>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Change colour theme">Theme: Auto</button>
+    </nav>
+  </header>
+
+  <main id="content">
+    {% block content %}{% endblock content %}
+  </main>
+
+  <footer class="site-footer">
+    <span>Pen and ink resources.</span>
+  </footer>
+
+  <script>
+    (() => {
+      const button = document.getElementById('theme-toggle');
+      if (!button) return;
+      const choices = ['auto', 'light', 'dark'];
+      const read = () => {
+        try { return localStorage.getItem('theme') || 'auto'; }
+        catch (_) { return 'auto'; }
+      };
+      const apply = (theme) => {
+        if (theme === 'auto') {
+          delete document.documentElement.dataset.theme;
+          try { localStorage.removeItem('theme'); } catch (_) {}
+        } else {
+          document.documentElement.dataset.theme = theme;
+          try { localStorage.setItem('theme', theme); } catch (_) {}
+        }
+        button.textContent = `Theme: ${theme[0].toUpperCase()}${theme.slice(1)}`;
+      };
+      apply(read());
+      button.addEventListener('click', () => {
+        const current = read();
+        const next = choices[(choices.indexOf(current) + 1) % choices.length];
+        apply(next);
+      });
+    })();
+  </script>
+</body>
+</html>
