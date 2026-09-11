@@ -1,4 +1,0 @@
----
-slug: resources
-name: Resources
----

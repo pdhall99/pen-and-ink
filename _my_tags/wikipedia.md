@@ -1,4 +1,0 @@
----
-slug: wikipedia
-name: Wikipedia
----
