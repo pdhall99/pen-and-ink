@@ -24,6 +24,6 @@ For a fresh clone, `git clone --recurse-submodules ...` also checks out the them
 
 ## Deployment
 
-`.github/workflows/pages.yml` checks out the theme submodule, builds with Zola 0.23.4, and deploys `public/` to GitHub Pages when changes land on `main`. Pull requests run the same production build without deploying.
+`.github/workflows/pages.yml` checks out the theme submodule, builds with Zola 0.23.4, and deploys Zola's `public/` output to GitHub Pages when changes land on `main`. Pull requests run the same production build without deploying.
 
-The post-build step preserves the existing extensionless `/blog` and `/blog/<slug>` URLs, rewrites generated internal/feed/sitemap links to those URLs, and keeps the historical `/feed.xml` URL.
+The site now uses Zola's native URL structure and generated files. That means URLs may differ from the previous Jekyll site, including trailing slashes on content URLs and `atom.xml` as the generated feed. Static files such as the favicon and Google verification file live under `static/` and are copied by Zola during the build.

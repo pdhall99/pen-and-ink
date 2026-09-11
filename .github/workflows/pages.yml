@@ -26,9 +26,6 @@ jobs:
       - name: Build site
         run: zola build
 
-      - name: Preserve existing URLs
-        run: scripts/prepare-pages.sh
-
       - name: Configure Pages
         if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v5
