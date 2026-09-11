@@ -1,3 +1,4 @@
-[submodule "themes/zola-bearblog"]
-	path = themes/zola-bearblog
-	url = https://codeberg.org/alinnow/zola-bearblog.git
+[submodule "themes/linkita"]
+	path = themes/linkita
+	url = https://github.com/salif/linkita.git
+	branch = main

@@ -1,41 +1,39 @@
 base_url = "https://pdhall99.github.io/pen-and-ink"
+theme = "linkita"
 title = "Pen and ink resources 🖋️"
 description = "Resources for pen and ink drawing."
 default_language = "en"
-theme = "zola-bearblog"
 generate_feeds = true
 feed_filenames = ["atom.xml"]
 generate_sitemap = true
 generate_robots_txt = true
 compile_sass = false
+build_search_index = false
 taxonomies = [
-  { name = "tags", feed = false },
   { name = "tagged", feed = false },
 ]
 
-[translations]
-no_posts = "No posts yet"
-remove_filter = "Remove filter"
-filtering_for = "Filtering for"
-made_with = "Made with"
-table_of_contents = "Table of contents"
-language = "language"
-site = "site"
-
 [extra]
+math = false
+mermaid = false
+comment = false
+toc = false
+title_separator = " | "
+header_menu_name = "main"
+menu_i18n = false
+header_buttons = ["site_title", "theme_button"]
+page_info = [{ when = "date" }]
+page_info_on_paginator = [{ when = "date" }]
+
+[extra.menus]
+main = [
+  { url = "@base/", name = "Home" },
+  { url = "@base/blog", name = "Blog" },
+  { url = "@base/tagged/", name = "Tags" },
+]
+
+[extra.taxonomy_sorting]
+tagged = "name"
+
+[extra.languages.en]
 date_format = "%d %b %Y"
-webserver_sends_csp_headers = false
-language_switcher = false
-
-[extra.table_of_contents]
-show = false
-max_level = 2
-visible_on_load = true
-
-[[extra.main_menu]]
-name = "Home"
-url = "@/_index.md"
-
-[[extra.main_menu]]
-name = "Blog"
-url = "@/blog/_index.md"
