@@ -2,6 +2,7 @@ base_url = "https://pdhall99.github.io/pen-and-ink"
 title = "Pen and ink resources 🖋️"
 description = "Resources for pen and ink drawing."
 default_language = "en"
+theme = "zola-bearblog"
 generate_feeds = true
 feed_filenames = ["atom.xml"]
 generate_sitemap = true
@@ -11,3 +12,11 @@ skip_content_templating = ["**/*.md"]
 taxonomies = [
   { name = "tagged", feed = false },
 ]
+
+[[extra.main_menu]]
+name = "Home"
+url = "@/_index.md"
+
+[[extra.main_menu]]
+name = "Blog"
+url = "@/blog/_index.md"
