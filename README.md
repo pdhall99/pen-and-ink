@@ -25,3 +25,7 @@ zola serve
 `.github/workflows/pages.yml` builds with Zola 0.23.4 and deploys Zola's `public/` output to GitHub Pages when changes land on `main`. Pull requests run the same production build without deploying.
 
 The site uses Zola's native URL structure and generated files, including trailing slashes on content URLs and `atom.xml` as the generated feed. Static files such as the favicon, stylesheet and Google verification file live under `static/` and are copied by Zola during the build.
+
+## License
+
+Site code is licensed under the MIT License. Unless otherwise stated, site content is © Philip D. Hall and is not covered by the software licence.
