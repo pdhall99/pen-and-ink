@@ -1,10 +1,9 @@
 +++
 title = "Blog"
-description = "Blog posts"
 sort_by = "date"
-template = "archive.html"
-transparent = true
+template = "section.html"
+page_template = "page.html"
 
 [extra]
-date_format = "%d %b %Y"
+taxonomy_group = "tagged"
 +++
