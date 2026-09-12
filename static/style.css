@@ -1,14 +1,13 @@
 :root {
   color-scheme: light dark;
-  --content-width: 40rem;
+  --content-width: 38rem;
   --background: #f7f7f5;
   --header-background: #333333;
   --header-text: #f2f2f2;
-  --header-muted: #cccccc;
   --text: #222222;
   --muted: #666666;
   --link: #1769aa;
-  --visited: #6b4c8a;
+  --visited: #596c7d;
   --rule: #cccccc;
   --code-background: #eeeeec;
   --blockquote: #555555;
@@ -19,11 +18,10 @@
     --background: #171717;
     --header-background: #111111;
     --header-text: #f2f2f2;
-    --header-muted: #bdbdbd;
     --text: #dddddd;
     --muted: #aaaaaa;
     --link: #8ab4f8;
-    --visited: #c6a0e8;
+    --visited: #a9b7c6;
     --rule: #444444;
     --code-background: #242424;
     --blockquote: #bbbbbb;
@@ -66,12 +64,6 @@ body {
 
 .site-title:visited {
   color: var(--header-text);
-}
-
-.site-description {
-  margin: 0.15rem 0 0;
-  color: var(--header-muted);
-  font-size: 0.92rem;
 }
 
 .site-nav {
@@ -134,6 +126,12 @@ a {
 
 a:visited {
   color: var(--visited);
+}
+
+.content a {
+  text-decoration: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.15em;
 }
 
 a:hover,
