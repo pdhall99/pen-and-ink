@@ -85,13 +85,13 @@ body {
 }
 
 .site-nav {
+  display: flex;
+  gap: 1.2rem;
   margin-top: 0.65rem;
-  text-align: left;
 }
 
 .site-nav a,
 .site-nav a:visited {
-  margin: 0 0.6rem;
   color: var(--header-link);
   font-weight: 700;
   text-decoration: none;
@@ -271,10 +271,6 @@ td {
 }
 
 @media (max-width: 36rem) {
-  .site-nav a {
-    margin: 0 1rem 0 0;
-  }
-
   .post-list li {
     grid-template-columns: 1fr;
     gap: 0;
