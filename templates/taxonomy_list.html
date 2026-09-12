@@ -1,12 +1,14 @@
 {% extends "base.html" %}
 
-{% block main %}
-  <main>
-    <h1>{{ taxonomy.name | capitalize }}</h1>
-    <div class="tags">
-      {%- for term in terms %}
-        <a href="{{ term.permalink }}">#{{ term.name }}</a>&nbsp;
-      {%- endfor %}
-    </div>
-  </main>
+{% block title %}Tags · {{ config.title }}{% endblock %}
+
+{% block content %}
+  <h1>Tags</h1>
+  <ul class="tag-list">
+    {% for term in terms %}
+      <li><a href="{{ term.permalink }}">#{{ term.name }}</a></li>
+    {% else %}
+      <li>No tags yet.</li>
+    {% endfor %}
+  </ul>
 {% endblock %}
