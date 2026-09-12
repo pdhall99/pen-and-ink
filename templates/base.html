@@ -1,31 +1,36 @@
 <!DOCTYPE html>
-<html lang="{{ lang | default(value="en-US") }}">
+<html lang="{{ lang | default(value=config.default_language) }}">
 <head>
-  {%- if config.extra.webserver_sends_csp_headers %}
-  {%- include "security_tags.html" %}
-  {%- endif %}
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  {% include "favicon.html" -%}
-  <title>{%- block title %}{{ config.title }}{%- endblock %}</title>
-  {% include "seo_tags.html" -%}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="{{ config.description }}">
   <meta name="referrer" content="strict-origin-when-cross-origin">
-  {%- if config.generate_feeds %}
-  {% block rss -%}
-  {%- for feed_filename in config.feed_filenames %}
-  <link rel="alternate" type={% if feed_filename == "atom.xml" %}"application/atom+xml"{% else %}"application/rss+xml"{% endif %} title="{{ config.title }}" href="{{ get_url(path=feed_filename) | safe }}">
-  {%- endfor -%}
-  {%- endblock -%}
-  {%- endif %}
-  <style>
-  {% include "style.css.html" %}
-  </style>
-  {%- include "custom_head.html" %}
+  <title>{% block title %}{{ config.title }}{% endblock %}</title>
+  <link rel="icon" href="{{ get_url(path="favicon.ico") }}">
+  <link rel="stylesheet" href="{{ get_url(path="style.css") }}">
+  {% if config.generate_feeds %}
+    {% for feed_filename in config.feed_filenames %}
+      <link rel="alternate" type="{% if feed_filename == "atom.xml" %}application/atom+xml{% else %}application/rss+xml{% endif %}" title="{{ config.title }}" href="{{ get_url(path=feed_filename) }}">
+    {% endfor %}
+  {% endif %}
 </head>
 <body>
-  {% include "header.html" %}
-  {%- block main -%}{%- endblock -%}
-  {%- include "footer.html" -%}
-  {%- include "custom_body.html" -%}
+  <a class="skip-link" href="#main-content">Skip to content</a>
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a class="site-title" href="{{ get_url(path="@/_index.md") }}">{{ config.title }}</a>
+      <nav class="site-nav" aria-label="Site navigation">
+        <a href="{{ get_url(path="@/_index.md") }}">Home</a>
+        <a href="{{ get_url(path="@/blog/_index.md") }}">Blog</a>
+        <a href="{{ get_url(path="tagged/") }}">Tags</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="content" id="main-content" tabindex="-1">
+    {% block content %}{% endblock %}
+  </main>
 </body>
 </html>

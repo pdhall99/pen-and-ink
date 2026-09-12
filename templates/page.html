@@ -1,37 +1,29 @@
 {% extends "base.html" %}
 
-{% block title %}{{ page.title }} | {{ super() }}{% endblock %}
+{% block title %}{{ page.title }} · {{ config.title }}{% endblock %}
 
-{% block main %}
-  {%- if not page.extra.menu -%}
-    <h1>{{ page.title }}</h1>
-    {%- if page.date %}
-      <p>
-        <i>
-          <time datetime="{{ page.date | date(format='%Y-%m-%d') }}" pubdate>
-            {{- page.date | date(format=config.extra.date_format) -}}
-          </time>
-        </i>
-      </p>
-    {%- endif %}
-  {%- endif %}
-  {%- if config.extra.table_of_contents.show and not page.extra.hide_table_of_contents and page.toc %}
-    <details {% if config.extra.table_of_contents.visible_on_load %}open{% endif %}>
-      <summary>{{ trans(key="table_of_contents", lang=lang) }}</summary>
-      {{<bear.table_of_contents toc={page.toc} max_level={config.extra.table_of_contents.max_level} />}}
-    </details>
-  {%- endif %}
-  <main>
+{% block content %}
+  <article>
+    <header class="page-header">
+      <h1>{{ page.title }}</h1>
+      {% if page.date %}
+        <p class="page-date">
+          <time datetime="{{ page.date | date(format="%Y-%m-%d") }}">{{ page.date | date(format=config.extra.date_format) }}</time>
+        </p>
+      {% endif %}
+    </header>
+
     {{ page.content | safe }}
-  </main>
-  <p>
-    {%- if page.taxonomies %}
-      {%- for name, taxon in page.taxonomies %}
-        {{ name | capitalize }}:
-        {%- for item in taxon %}
-          <a href="{{ get_taxonomy_url(kind=name, term=item, lang=lang) }}">#{{ item }}</a>
-        {%- endfor %}
-      {%- endfor %}
-    {%- endif %}
-  </p>
+
+    {% if page.taxonomies %}
+      <footer class="page-tags">
+        {% for name, terms in page.taxonomies %}
+          <span>{% if name == "tagged" %}Tags{% else %}{{ name | capitalize }}{% endif %}:</span>
+          {% for term in terms %}
+            <a href="{{ get_taxonomy_url(kind=name, term=term) }}">#{{ term }}</a>{% if not loop.last %}, {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </footer>
+    {% endif %}
+  </article>
 {% endblock %}

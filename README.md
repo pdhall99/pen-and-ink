@@ -4,28 +4,28 @@ Source for a small [Zola](https://www.getzola.org/) site collecting resources re
 
 Live site: https://pdhall99.github.io/pen-and-ink/
 
-## Theme
+## Design
 
-The site uses the look and templates from [Zola Bear Blog](https://codeberg.org/alinnow/zola-bearblog). The canonical Bear repository is retained as a Git submodule pinned to the same upstream commit previously used by this site.
+The site does not use a third-party Zola theme. Its presentation layer is intentionally small: a handful of templates under `templates/` and one stylesheet at `static/style.css`.
 
-Bear currently contains pre-Tera-2 template syntax that Zola 0.23.x rejects while loading a configured theme, before project overrides can replace those files. For now, the project's `templates/` directory contains Bear's small template set with only the compatibility changes required by Zola 0.23.x/Tera 2. There are no intentional design changes.
+Zola handles the content machinery — Markdown rendering, sections, dates, taxonomies, feeds, sitemap generation and URLs — while the local templates provide the HTML structure and styling.
 
-Once upstream Bear supports current Zola, the intended upgrade is to advance the submodule, set Bear as the configured theme again, and remove the vendored templates. Bear's MIT license notice is retained under `licenses/`.
+The visual design is deliberately minimal: a narrow readable column, a simple dark header and navigation, restrained typography and colours, and automatic light/dark mode. There is no JavaScript or frontend build step.
 
 ## Local development
 
-Install Zola 0.23.4 or newer, then initialise/update the upstream theme reference and run:
+Install Zola 0.23.4 or newer, then run:
 
 ```sh
-git submodule sync --recursive
-git submodule update --init --recursive
 zola serve
 ```
-
-For a fresh clone, `git clone --recurse-submodules ...` also checks out the upstream theme reference in one step.
 
 ## Deployment
 
 `.github/workflows/pages.yml` builds with Zola 0.23.4 and deploys Zola's `public/` output to GitHub Pages when changes land on `main`. Pull requests run the same production build without deploying.
 
-The site uses Zola's native URL structure and generated files, including trailing slashes on content URLs and `atom.xml` as the generated feed. Static files such as the favicon and Google verification file live under `static/` and are copied by Zola during the build.
+The site uses Zola's native URL structure and generated files, including trailing slashes on content URLs and `atom.xml` as the generated feed. Static files such as the favicon, stylesheet and Google verification file live under `static/` and are copied by Zola during the build.
+
+## License
+
+Site code is licensed under the MIT License. Unless otherwise stated, site content is © Philip D. Hall and is not covered by the software licence.
